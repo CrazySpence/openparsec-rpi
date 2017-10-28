@@ -1,4 +1,4 @@
 #!/bin/bash 
-cd /opt/retropie/emulators/openparsec-rpi
+cd /opt/retropie/ports/openparsec-rpi
 ./parsec
 
